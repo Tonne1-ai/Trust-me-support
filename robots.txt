@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# AdMob app-ads.txt file
+Allow: /app-ads.txt
+
+# Sitemap (if you add one later)
+# Sitemap: https://yourdomain.com/sitemap.xml
